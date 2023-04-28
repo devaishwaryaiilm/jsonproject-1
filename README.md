@@ -72,4 +72,4 @@ Dashboard > Visualize > Jsondb > select Database and Relation
 New row -
 { "token": "90932512|-31949274757731994|90949158", "cmd": "PUT", "dbName": "Employee", "rel": "Emp-Rel", "jsonStr": { "id": "2", "name": "aniket", "email": "aishwarya952355@gmail.com", "mobileno": "9864325671" } }
 {"data":"{"rec_no":[2]}","additionalData":{"processReqType":0,"dbUpdateFlag":true}, "message":"DATA INSERTED, Total 1 rows are inserted, Added 0 columns as New Index Columns.","status":200}
-Dashboard > Visualize > Jsondb > select Database and Relation
+Dashboard > Visualize > Jsondb > select Database and Relation.
